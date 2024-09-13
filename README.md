@@ -1,4 +1,4 @@
-# Data-1204---Statistical-and-Prediction-Modelling---Chi-Squared-Analysis
+# Data-1204---Statistical-and-Prediction-Modelling---Chi-Squared-Analysis Using R studio
 
 ![image](https://github.com/user-attachments/assets/4229dab6-7f71-4452-a738-782820ef7cee)
 
